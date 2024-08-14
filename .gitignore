@@ -1,0 +1,7 @@
+__MACOSX
+runs
+tracking_course
+*.mp4
+*.pt
+*.zip
+tracking.ipynb

@@ -1,5 +1,7 @@
 # Object Detection and Tracking with YOLO
 
+<img src='./background.jpg'/>
+
 ## Overview
 
 This project demonstrates object detection and tracking using the YOLO (You Only Look Once) model. We utilize YOLOv8 for real-time object detection and implement tracking using a combination of IoU (Intersection over Union), linear, and exponential cost functions. The Hungarian Algorithm is employed for data association to track objects across frames.
